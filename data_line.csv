@@ -1,0 +1,127 @@
+Crime,Max Temp,Average
+Burglary,0,36
+Burglary,5,29
+Burglary,10,41.6667
+Burglary,15,47.3333
+Burglary,20,56.2609
+Burglary,25,54.4118
+Burglary,30,59.7111
+Burglary,35,61.0877
+Burglary,40,67.6
+Burglary,45,64.169
+Burglary,50,66.1408
+Burglary,55,71.7
+Burglary,60,71.2239
+Burglary,65,73.1636
+Burglary,70,72.3649
+Burglary,75,71.7143
+Burglary,80,73.0952
+Burglary,85,73.4634
+Burglary,90,76.1304
+Burglary,95,77.2667
+Burglary,100,70
+Narcotics,0,103
+Narcotics,5,103
+Narcotics,10,139
+Narcotics,15,119.167
+Narcotics,20,125.348
+Narcotics,25,134.176
+Narcotics,30,140.911
+Narcotics,35,143.877
+Narcotics,40,146.517
+Narcotics,45,132.352
+Narcotics,50,140.141
+Narcotics,55,142.283
+Narcotics,60,132.627
+Narcotics,65,129
+Narcotics,70,136.878
+Narcotics,75,135.7
+Narcotics,80,139.571
+Narcotics,85,134.39
+Narcotics,90,124.957
+Narcotics,95,132
+Narcotics,100,100
+Criminal Damage,0,58
+Criminal Damage,5,79
+Criminal Damage,10,97
+Criminal Damage,15,98.6667
+Criminal Damage,20,96.6522
+Criminal Damage,25,104.647
+Criminal Damage,30,107.111
+Criminal Damage,35,115.175
+Criminal Damage,40,119.05
+Criminal Damage,45,123.211
+Criminal Damage,50,137.535
+Criminal Damage,55,136.983
+Criminal Damage,60,136.537
+Criminal Damage,65,137.2
+Criminal Damage,70,142.041
+Criminal Damage,75,145.743
+Criminal Damage,80,149.262
+Criminal Damage,85,139.951
+Criminal Damage,90,141
+Criminal Damage,95,145
+Criminal Damage,100,106
+Battery,0,126
+Battery,5,174
+Battery,10,155.667
+Battery,15,167.167
+Battery,20,163.174
+Battery,25,175.588
+Battery,30,177.689
+Battery,35,187.772
+Battery,40,183.217
+Battery,45,194.873
+Battery,50,203.268
+Battery,55,209.283
+Battery,60,210.94
+Battery,65,211.418
+Battery,70,225.203
+Battery,75,238.886
+Battery,80,245.44
+Battery,85,246.134
+Battery,90,245.478
+Battery,95,242.533
+Battery,100,143
+Theft,0,174
+Theft,5,134
+Theft,10,155.667
+Theft,15,178.333
+Theft,20,181.13
+Theft,25,198.765
+Theft,30,202.511
+Theft,35,208
+Theft,40,216.25
+Theft,45,217.014
+Theft,50,223.507
+Theft,55,232.967
+Theft,60,232.761
+Theft,65,236.855
+Theft,70,237.014
+Theft,75,254
+Theft,80,254.5
+Theft,85,259.28
+Theft,90,258.63
+Theft,95,261.267
+Theft,100,231
+Other Crimes,0,313
+Other Crimes,5,306
+Other Crimes,10,306.9993
+Other Crimes,15,329.333
+Other Crimes,20,317.4349
+Other Crimes,25,349.5922
+Other Crimes,30,342.8469
+Other Crimes,35,358.0683
+Other Crimes,40,352.986
+Other Crimes,45,346.791
+Other Crimes,50,362.7782
+Other Crimes,55,373.584
+Other Crimes,60,370.4011
+Other Crimes,65,377.4534
+Other Crimes,70,377.9091
+Other Crimes,75,395.6667
+Other Crimes,80,400.0218
+Other Crimes,85,400.9616
+Other Crimes,90,392.5246
+Other Crimes,95,383.6033
+Other Crimes,100,273

@@ -1,0 +1,127 @@
+Max Temp,Crime,Average
+0,Other Crimes,313
+0,Theft,174
+0,Battery,126
+0,Criminal Damage,58
+0,Narcotics,103
+0,Burglary,36
+5,Other Crimes,306
+5,Theft,134
+5,Battery,174
+5,Criminal Damage,79
+5,Narcotics,103
+5,Burglary,29
+10,Other Crimes,306.9993
+10,Theft,155.667
+10,Battery,155.667
+10,Criminal Damage,97
+10,Narcotics,139
+10,Burglary,41.6667
+15,Other Crimes,329.333
+15,Theft,178.333
+15,Battery,167.167
+15,Criminal Damage,98.6667
+15,Narcotics,119.167
+15,Burglary,47.3333
+20,Other Crimes,317.4349
+20,Theft,181.13
+20,Battery,163.174
+20,Criminal Damage,96.6522
+20,Narcotics,125.348
+20,Burglary,56.2609
+25,Other Crimes,349.5922
+25,Theft,198.765
+25,Battery,175.588
+25,Criminal Damage,104.647
+25,Narcotics,134.176
+25,Burglary,54.4118
+30,Other Crimes,342.8469
+30,Theft,202.511
+30,Battery,177.689
+30,Criminal Damage,107.111
+30,Narcotics,140.911
+30,Burglary,59.7111
+35,Other Crimes,358.0683
+35,Theft,208
+35,Battery,187.772
+35,Criminal Damage,115.175
+35,Narcotics,143.877
+35,Burglary,61.0877
+40,Other Crimes,352.986
+40,Theft,216.25
+40,Battery,183.217
+40,Criminal Damage,119.05
+40,Narcotics,146.517
+40,Burglary,67.6
+45,Other Crimes,346.791
+45,Theft,217.014
+45,Battery,194.873
+45,Criminal Damage,123.211
+45,Narcotics,132.352
+45,Burglary,64.169
+50,Other Crimes,362.7782
+50,Theft,223.507
+50,Battery,203.268
+50,Criminal Damage,137.535
+50,Narcotics,140.141
+50,Burglary,66.1408
+55,Other Crimes,373.584
+55,Theft,232.967
+55,Battery,209.283
+55,Criminal Damage,136.983
+55,Narcotics,142.283
+55,Burglary,71.7
+60,Other Crimes,370.4011
+60,Theft,232.761
+60,Battery,210.94
+60,Criminal Damage,136.537
+60,Narcotics,132.627
+60,Burglary,71.2239
+65,Other Crimes,377.4534
+65,Theft,236.855
+65,Battery,211.418
+65,Criminal Damage,137.2
+65,Narcotics,129
+65,Burglary,73.1636
+70,Other Crimes,377.9091
+70,Theft,237.014
+70,Battery,225.203
+70,Criminal Damage,142.041
+70,Narcotics,136.878
+70,Burglary,72.3649
+75,Other Crimes,395.6667
+75,Theft,254
+75,Battery,238.886
+75,Criminal Damage,145.743
+75,Narcotics,135.7
+75,Burglary,71.7143
+80,Other Crimes,400.0218
+80,Theft,254.5
+80,Battery,245.44
+80,Criminal Damage,149.262
+80,Narcotics,139.571
+80,Burglary,73.0952
+85,Other Crimes,400.9616
+85,Theft,259.28
+85,Battery,246.134
+85,Criminal Damage,139.951
+85,Narcotics,134.39
+85,Burglary,73.4634
+90,Other Crimes,392.5246
+90,Theft,258.63
+90,Battery,245.478
+90,Criminal Damage,141
+90,Narcotics,124.957
+90,Burglary,76.1304
+95,Other Crimes,383.6033
+95,Theft,261.267
+95,Battery,242.533
+95,Criminal Damage,145
+95,Narcotics,132
+95,Burglary,77.2667
+100,Other Crimes,273
+100,Theft,231
+100,Battery,143
+100,Criminal Damage,106
+100,Narcotics,100
+100,Burglary,70
